@@ -1,0 +1,30 @@
+head
+{
+font-size: 50px
+}
+body
+{
+    background-image: url(viha1.jpg);
+ background-size: 100%;
+}
+ h3 {
+    font-family: Impact, black, sans-serif;
+}
+  p 
+  {
+    font-size: 20px;
+  }
+  h1
+  {
+     color: black;
+     font-size: 40px;
+     font-family: serif;
+  }
+  h6{
+      font-size: xx-large;
+  }
+  h2{
+      font-size: xx-large;
+  }
+
+  

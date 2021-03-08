@@ -1,0 +1,21 @@
+body
+{
+    background-image: url(viha1.jpg);
+ background-size: 100%;
+}
+p{
+    font-size: large;
+}
+p{
+    color:white;
+}
+li{
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(214, 214, 57);
+}
+h2 {
+    font-size: 50px;
+    font-style:italic;
+    color: rgb(85, 76, 85);
+}
